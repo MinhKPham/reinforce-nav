@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyroeletric.Plugins", "Pyroeletric.Plugins.csproj", "{4227BE49-D3F3-1EF1-B4D7-6A244EDCC47C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyroeletric", "Pyroeletric.csproj", "{71749D32-AC34-7B41-8C51-FA677B0E796A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyroeletric.Editor.Plugins", "Pyroeletric.Editor.Plugins.csproj", "{C7291305-9AFF-9652-8FB2-E6A469D22182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4227BE49-D3F3-1EF1-B4D7-6A244EDCC47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4227BE49-D3F3-1EF1-B4D7-6A244EDCC47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4227BE49-D3F3-1EF1-B4D7-6A244EDCC47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4227BE49-D3F3-1EF1-B4D7-6A244EDCC47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71749D32-AC34-7B41-8C51-FA677B0E796A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71749D32-AC34-7B41-8C51-FA677B0E796A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71749D32-AC34-7B41-8C51-FA677B0E796A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71749D32-AC34-7B41-8C51-FA677B0E796A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7291305-9AFF-9652-8FB2-E6A469D22182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7291305-9AFF-9652-8FB2-E6A469D22182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7291305-9AFF-9652-8FB2-E6A469D22182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7291305-9AFF-9652-8FB2-E6A469D22182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
